@@ -1,6 +1,6 @@
 # Fullstack Fighters
 
-<em>Multiplayer fighting game with socket.io room feature</em>
+<em>Online multiplayer fighting game with socket.io room feature</em>
 
 ## About Fullstack Fighters 
 
