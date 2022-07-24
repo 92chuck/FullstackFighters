@@ -6,7 +6,7 @@
 
 Fighting game with 2 characters: King and Ghost. You will be able to control with a keyboard or a Teachable machine with webcam powered by Tensorflow JS library. Create a room or join to specific room with unique code. Pick one characters and fight!! Control the game avatar with teachable machine for workout purpose :-)
 
-## Video Walkthrough :movie_camera:
+## Video walkthrough :movie_camera:
 https://www.youtube.com/watch?v=MsojX2ZGZHg
 
 ## Link to our game 
