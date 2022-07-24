@@ -9,7 +9,7 @@ Fighting game with 2 characters: King and Ghost. You will be able to control wit
 ## Video Walkthrough :movie_camera:
 https://www.youtube.com/watch?v=MsojX2ZGZHg
 
-## Link to our Store 
+## Link to our game 
 https://fullstackfighters.herokuapp.com/
 
 ## Key Features :key:
